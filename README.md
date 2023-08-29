@@ -1,1 +1,1 @@
-this is for rsa factoring challenge 
+readme for rsa
